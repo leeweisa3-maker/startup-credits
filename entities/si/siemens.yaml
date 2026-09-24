@@ -13,12 +13,10 @@ profile:
   summary: Siemens is a technology company whose software portfolio includes Solid Edge, a product development suite with CAD, CAM, and CAE tools for design, simulation, and manufacturing.
   description: Siemens is a technology company; its Solid Edge software covers product design and rendering, simulation, electrical design, manufacturing, and data management.
   links:
-    site: https://www.siemens.com
+    site: https://resources.sw.siemens.com/en-US/solid-edge-for-startups/
 sources:
   - source_id: src_84c3e9f1872bfb34d2e295b3fb6e5900f7911e93a2435b663ad257502da3a6ff
     url: https://resources.sw.siemens.com/en-US/solid-edge-for-startups/
-  - source_id: src_699d39e03fabb2dfab3d7a2abb2c8f0f193964cc15ae217c6ccc36907b6a17c6
-    url: https://www.siemens.com/
 programs:
   - program_id: prg_01m187g09tba0y01tjszf251dy
     program_slug: solid-edge-for-startups
