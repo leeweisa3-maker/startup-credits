@@ -38,10 +38,10 @@ offers:
     economics:
       consideration:
         kind: variable
-        description: The free credits and discounted Growth platform fee apply for one year under an annual contract; after that, standard Growth pricing applies.
+        description: The startup receives up to 100% off the platform fee on the Growth tier; the free credits and discounted platform fee apply for one year under an annual contract.
       benefits:
         - benefit_id: ben_01
-          description: $1,500 in Reducto credits for testing and early production usage
+          description: $1,500 in free credits to support testing and early production usage.
           duration:
             kind: exact
             value: P1Y
@@ -52,7 +52,7 @@ offers:
               minor_units: 150000
             kind: exact
         - benefit_id: ben_02
-          description: Up to 100% off the Growth tier platform fee for one year
+          description: Up to 100% off the platform fee on the Growth tier.
           duration:
             kind: exact
             value: P1Y
