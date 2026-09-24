@@ -30,11 +30,10 @@ offers:
     economics:
       consideration:
         kind: variable
-        description: The startup receives 10% off the OpStart services it buys for the first twelve months, with the discount capped at $1,000.
+        description: The startup receives a 10% discount (capped at $1,000) for the first twelve months of bookkeeping, bill pay, payroll support, and more.
       benefits:
         - benefit_id: ben_01
-          applies_to: OpStart bookkeeping, bill pay, payroll support, and related services
-          description: 10% discount, capped at $1,000, for the first twelve months of bookkeeping, bill pay, payroll support, and more.
+          description: 10% discount (capped at $1,000) for the first twelve months of bookkeeping, bill pay, payroll support, and more.
           duration:
             kind: exact
             value: P12M
