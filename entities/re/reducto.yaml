@@ -10,6 +10,7 @@ entity:
       valid_from: 2026-08-29T00:00:00.000Z
   category: ai-ml
 profile:
+  summary: Reducto is an agentic document platform that parses, classifies, and extracts data from messy documents such as tables, scans, and handwriting across 30+ file types.
   description: Reducto provides document parsing, OCR, classification, extraction, editing, redaction, and translation tools for production document workflows.
   links:
     site: https://reducto.ai
@@ -37,7 +38,7 @@ offers:
     economics:
       consideration:
         kind: variable
-        description: The credits and discounted platform fee apply for one year under an annual contract.
+        description: The free credits and discounted Growth platform fee apply for one year under an annual contract; after that, standard Growth pricing applies.
       benefits:
         - benefit_id: ben_01
           description: $1,500 in Reducto credits for testing and early production usage
@@ -96,7 +97,8 @@ offers:
       access_operator_entity_id: ent_01m16f4r3dkrkhyr9j1e0z667y
     access:
       availability: public
+      instructions: Fill out the application form on the Reducto startups page and sign up at studio.reducto.ai with the same email; each application is reviewed case by case.
       method: form
-      url: https://forms.gle/fVbik2ER6CdP4mft7
+      url: https://reducto.ai/startups
     source_ids:
       - src_15029d107fa3024890ed1e0b320f144e1b223d24b40408ffa7d0681294ab849b
